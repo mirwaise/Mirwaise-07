@@ -42,11 +42,11 @@
 </p>
 </div>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mirwaise&show_icons=true&locale=en&theme=default&count_private=true&hide_border=true" alt="mirwaise's GitHub Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mirwaise&show_icons=true&locale=en&theme=dark&count_private=true&hide_border=true" alt="mirwaise's GitHub Stats" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mirwaise&locale=en&theme=default&layout=compact&hide_border=true" alt="Top Languages" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mirwaise&locale=en&theme=dark&layout=compact&hide_border=true" alt="Top Languages" /></p>
 
-<p align="center"><img src="https://streak-stats.demolab.com/?user=mirwaise&theme=default&hide_border=true" alt="GitHub Streak Stats" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com/?user=mirwaise&theme=dark&hide_border=true" alt="GitHub Streak Stats" /></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mirwaise&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />   <a href="https://twitter.com/Mirwaisekhan100" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/twitter/follow/Mirwaisekhan100?logo=x&style=social" alt="Follow @Mirwaisekhan100 on Twitter" /></a>   <a href="https://github.com/sponsors/mirwaise" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2?logo=GitHub-Sponsors&style=social" alt="Sponsor @mirwaise" /></a>
